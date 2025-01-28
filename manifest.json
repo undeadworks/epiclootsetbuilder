@@ -8,7 +8,7 @@
     "theme_color": "transparent",
     "icons": [
       {
-        "src": "/assets/images/512w/icon-512.png",
+        "src": "assets/images/512w/icon-512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
