@@ -1,1 +1,1 @@
-# epiclootsetbuilder
+# EpicLoot Set Builder
